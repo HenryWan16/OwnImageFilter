@@ -1,7 +1,8 @@
 
 # Elastic Beanstalk Files
 .DS_Store
+.idea/*
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
-node_modules/
+node_modules/*
